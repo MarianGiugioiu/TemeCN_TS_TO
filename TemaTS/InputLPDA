@@ -1,0 +1,21 @@
+0 1 2
+a b
+1 2 3
+a b S Z
+0
+Z
+2
+8
+0 . Z 1 . SZ
+1 . S 1 1 aSbS
+1 . S 1 22 bSaS
+1 . S 1 3 bSbS
+1 a a 1 . .
+1 b b 1 . .
+1 . Z 2 . Z
+1 . S 1 3 .
+aabb
+abab
+aaabbb
+bbab
+
